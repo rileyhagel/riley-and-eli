@@ -89,6 +89,22 @@ nav a {
     display: inline-block;
     vertical-align: top;
 }
+table {
+    max-width: 100%;
+    border-collapse: collapse;
+}
+table td {
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    padding: 7px;
+}
+table th {
+    border-style: double;
+    border-color: white;
+    border-width: 3px;
+    padding: 7px;
+}
 .riley-link-menu {
     border-collapse: collapse;
     max-width: 100%;
